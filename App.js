@@ -178,7 +178,7 @@ export default function App() {
           placeholder="Search..."
           placeholderTextColor="black"
           right={<TextInput.Icon icon="eye" />}
-          left={<EvilIcons name="search" size={24} color="black" />}
+          left={<EvilIcons name="search" size={23} color="black" />}
           style={{
             borderRadius: 25,
             borderTopLeftRadius: 25,
